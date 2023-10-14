@@ -56,6 +56,12 @@ content:
         title: Languages
         description: | # this will include new lines to allow paragraphs
            Java, SQL, JavaScript, Python, HTML, CSS, XML, Typescript, Arduino, C++, and MATLAB.
+     content:
+      - layout: center
+        title: Frameworks/Technologies
+        description: | # this will include new lines to allow paragraphs
+           Git, REST, Java struts, servlets, Jboss, J2EE, Spring boot, Azure, SoapUI, JIRA, Bitbucket, and Dbeaver.
+
 
   - title: A Little More About Me
     layout: text
