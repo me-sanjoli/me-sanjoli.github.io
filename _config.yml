@@ -82,7 +82,7 @@ content:
             My responsibilities extend to both front-end and back-end development, where I've had the opportunity to design and manage database schemas and queries using SQL over Oracle database. 
             I have had opportunity to work in creating APIs. Additionally, I've been actively involved in code reviews, debugging, and troubleshooting to ensure the delivery of high-quality solutions. 
             Furthermore, I've had the privilege of mentoring and training junior developers, maintaning their metrics on JIRA and monitoring there performancees, contributing to the team's growth and cohesiveness.
-
+      content :
       - layout: left
         title: Tata Consultancy Services
         link: https://www.tcs.com/
