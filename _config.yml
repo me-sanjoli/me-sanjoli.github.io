@@ -47,54 +47,6 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sanjoli and I'm a Software developer. As well as enhancing systems I also have experience making software. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Java</mark> and <mark>Watching Anime</mark>
-
-content:
-  - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Languages
-        description: | # this will include new lines to allow paragraphs
-           Java, SQL, JavaScript, Python, HTML, CSS, XML, Typescript, Arduino, C++, and MATLAB.
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Sapiens Technologies (1982) India Private Limited, Bangalore
-        link: https://sapiens.com/
-        # link_text: boringcompany.com
-        sub_title: Java Developer
-        caption: January 2022 - Present
-        quote: >
-          Primarily focus on customization of Sapiens' IDIT product in Property & Casualty Insurance domain 
-        description: | # this will include new lines to allow paragraphs
-            My responsibilities extend to both front-end and back-end development, where I've had the opportunity to design and manage database schemas and queries using SQL over Oracle database. I have had opportunity to work in creating APIs. Additionally, I've been actively involved in code reviews, debugging, and troubleshooting to ensure the delivery of high-quality solutions. Furthermore, I've had the privilege of mentoring and training junior developers, maintaning their metrics on JIRA and monitoring there performancees, contributing to the team's growth and cohesiveness.
-   - title: Experience # Title for the section 
-      content:
-      - layout: left
-        title: Tata Consultancy Services
-        link: https://www.tcs.com/
-        # link_text: boringcompany.com
-        sub_title: Software Developer
-        caption: July 2019 - January 2022
-        quote: >
-          Maintenance and enhancement of a Project Portfolio application with Java for a major US pharmaceutical firm.
-        description: | # this will include new lines to allow paragraphs
-             I was responsible for developing and maintaining web application using Java. Also critical testing using automation tools such as selenium webdriver and bug fixing
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Bharti Vidyapeeth, Pune
-        caption: 2015 - 2019
-        sub_title: B.Tech
-        quote: >
-          Grade: A+  (9.32/10)
-        description: | # this will include new lines to allow paragraphs
-         Event Manager, PR Head, Literary Head, Senior member of editorial board. Teaching Assistant for NGO. 
-
-         
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
