@@ -56,16 +56,6 @@ content:
         title: Languages
         description: | # this will include new lines to allow paragraphs
            Java, SQL, JavaScript, Python, HTML, CSS, XML, Typescript, Arduino, C++, and MATLAB.
-     content:
-      - layout: center
-        title: Frameworks/Technologies
-        description: | # this will include new lines to allow paragraphs
-           Git, REST, Java struts, servlets, Jboss, J2EE, Spring boot, Azure, SoapUI, JIRA, Bitbucket, and Dbeaver.
-      content:
-      - layout: right
-        title: Areas of Interest
-        description: | # this will include new lines to allow paragraphs
-           Problem Solving, Machine Learning, DSA and Algorithms.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -79,7 +69,7 @@ content:
           Primarily focus on customization of Sapiens' IDIT product in Property & Casualty Insurance domain 
         description: | # this will include new lines to allow paragraphs
             My responsibilities extend to both front-end and back-end development, where I've had the opportunity to design and manage database schemas and queries using SQL over Oracle database. I have had opportunity to work in creating APIs. Additionally, I've been actively involved in code reviews, debugging, and troubleshooting to ensure the delivery of high-quality solutions. Furthermore, I've had the privilege of mentoring and training junior developers, maintaning their metrics on JIRA and monitoring there performancees, contributing to the team's growth and cohesiveness.
-      
+   - title: Experience # Title for the section 
       content:
       - layout: left
         title: Tata Consultancy Services
