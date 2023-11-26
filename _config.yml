@@ -22,17 +22,17 @@ content:
     layout: list
     content:
       - layout: left
-        subtitle: Languages
+        sub_title: Languages
         description: >
           Java, SQL, JavaScript, Python, HTML, CSS, XML, Typescript, Arduino,
           C++, and MATLAB.
       - layout: center
-        subtitle: Frameworks/Technologies
+        sub_title: Frameworks/Technologies
         description: >
           Git, REST, Java struts, servlets, Jboss, J2EE, Spring boot, Azure,
           SoapUI, JIRA, Bitbucket, and Dbeaver.
       - layout: left
-        subtitle: Areas of Interest
+        sub_title: Areas of Interest
         description: |
           Problem Solving, Machine Learning, DSA and Algorithms.
   - title: Experience
@@ -41,7 +41,7 @@ content:
       - layout: left
         title: Sapiens Technologies (1982) India Private Limited, Bangalore
         link: https://sapiens.com/
-        c: Java Developer
+        sub_title: Java Developer
         caption: January 2022 - Present
         quote: >
           Primarily focus on customization of Sapiens' IDIT product in Property &
@@ -55,7 +55,7 @@ content:
 
           Furthermore, I've had the privilege of mentoring and training junior developers, maintaning their metrics on JIRA and monitoring there performances, contributing to the team's growth and cohesiveness.
       - layout: center
-        subtitle: Tata Consultancy Services
+        title: Tata Consultancy Services
         link: https://www.tcs.com/
         sub_title: Software Developer
         caption: July 2019 - January 2022
