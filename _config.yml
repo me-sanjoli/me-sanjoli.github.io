@@ -1,95 +1,63 @@
-# Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
-
-# Content configuration version
 version: 2
-
-# Personal info
 name: Sanjoli Omar
 title: Software Developer
 email: sanjoliofficialo01@gmail.com
 website: www.github.com/me-sanjoli
-
-# Dark Mode (true/false/never)
-darkmode: false
-
-# Social links
-# twitter_username: facespics
-github_username:  me-sanjoli
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
+darkmode: true
+github_username: me-sanjoli
 linkedin_username: https://www.linkedin.com/in/profilesanjoli
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-# about_title: About Me
 about_profile_image: images/WhatsApp Image 2023-11-26 at 11.51.25.jpeg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sanjoli and I'm a Software developer. As well as enhancing systems I also have experience making software. I have worked at a number of companies gaining teamwork and leadership skills.
-
+about_content: >
+  Hi, my name's Sanjoli and I'm a Software developer. As well as
+  enhancing systems I also have experience making software. 
+  I have worked at a number of companies gaining teamwork and leadership skills.
   I am most skilled in: <mark>Java</mark> and <mark>Watching Anime</mark>
- 
 content:
-  - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Skills
+    layout: list
     content:
       - layout: left
-        title: Languages
-         description: > | # this will include new lines to allow paragraphs
-           Java, SQL, JavaScript, Python, HTML, CSS, XML, Typescript, Arduino, C++, and MATLAB.
-           
-      - layout: center
-        title: Frameworks/Technologies
-        description: | # this will include new lines to allow paragraphs
-           Git, REST, Java struts, servlets, Jboss, J2EE, Spring boot, Azure, SoapUI, JIRA, Bitbucket, and Dbeaver.
-
+        subtitle: Languages
+        description: >
+          Java, SQL, JavaScript, Python, HTML, CSS, XML, Typescript, Arduino,
+          C++, and MATLAB.
       - layout: left
-        title: Areas of Interest
-        description: | # this will include new lines to allow paragraphs
-           Problem Solving, Machine Learning, DSA and Algorithms.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+        subtitle: Frameworks/Technologies
+        description: >
+          Git, REST, Java struts, servlets, Jboss, J2EE, Spring boot, Azure,
+          SoapUI, JIRA, Bitbucket, and Dbeaver.
+      - layout: left
+        subtitle: Areas of Interest
+        description: |
+          Problem Solving, Machine Learning, DSA and Algorithms.
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: Sapiens Technologies (1982) India Private Limited, Bangalore
         link: https://sapiens.com/
-        # link_text: boringcompany.com
         sub_title: Java Developer
         caption: January 2022 - Present
         quote: >
-          Primarily focus on customization of Sapiens' IDIT product in Property & Casualty Insurance domain 
-        description: | # this will include new lines to allow paragraphs
-            My responsibilities extend to both front-end and back-end development, where I've had the opportunity to design and manage database schemas and queries using SQL over Oracle database. 
-            I have had opportunity to work in creating APIs. Additionally, I've been actively involved in code reviews, debugging, and troubleshooting to ensure the delivery of high-quality solutions. 
-            Furthermore, I've had the privilege of mentoring and training junior developers, maintaning their metrics on JIRA and monitoring there performancees, contributing to the team's growth and cohesiveness.
-      content :
+          Primarily focus on customization of Sapiens' IDIT product in Property &
+          Casualty Insurance domain 
+        description: >
+          My responsibilities extend to both front-end and back-end
+          development, where I've had the opportunity to design and manage
+          database schemas and queries using SQL over Oracle database. 
+
+          I have had opportunity to work in creating APIs. Additionally, I've been actively involved in code reviews, debugging, and troubleshooting to ensure the delivery of high-quality solutions. 
+
+          Furthermore, I've had the privilege of mentoring and training junior developers, maintaning their metrics on JIRA and monitoring there performancees, contributing to the team's growth and cohesiveness.
       - layout: center
         title: Tata Consultancy Services
         link: https://www.tcs.com/
-        # link_text: boringcompany.com
         sub_title: Software Developer
         caption: July 2019 - January 2022
-        quote: >
+        quote: ""
+
           Maintenance and enhancement of a Project Portfolio application with Java for a major US pharmaceutical firm.
         description: | # this will include new lines to allow paragraphs
              I was responsible for developing and maintaining web application using Java.
