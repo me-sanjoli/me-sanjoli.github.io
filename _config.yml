@@ -4,19 +4,20 @@ favicon: images/favicon.ico
 version: 2
 name: Sanjoli Omar
 title: Software Developer
-email: sanjoliofficialo01@gmail.com
+email: sanjoliofficial01@gmail.com
 website: www.github.com/me-sanjoli
 darkmode: false
 github_username: me-sanjoli
-linkedin_username: https://www.linkedin.com/in/profilesanjoli
+linkedin_username:https://www.linkedin.com/in/profilesanjoli/
 about_profile_image: images/WhatsApp Image 2023-11-26 at 11.51.25.jpeg
 about_content: >
-  Hi, my name's Sanjoli and I'm a Software developer. As well as
-  enhancing systems I also have experience making software. I have worked at a
-  number of companies gaining teamwork and leadership skills.
+  Hi, my name's Sanjoli and I'm a Software developer. As a Java Developer, I am passionate about building high-quality software applications that are scalable, reliable, and maintainable. With experience working on various projects, I have developed expertise in Java and related technologies.
+  My technical skills include proficiency in Java programming, Spring Framework, Hibernate, and RESTful web services. I also have experience with front-end technologies such as HTML, CSS, and JavaScript, which enable me to develop full-stack applications.
+  In my previous roles, I have collaborated with cross-functional teams to develop software solutions that meet business requirements and deliver value to end-users. I am a quick learner and always eager to explore new technologies and tools that can enhance the quality and performance of my code.
+  If you're looking for a Java Developer who can deliver high-quality software solutions, please don't hesitate to reach out. I'm always open to discussing new opportunities and challenges.
 
 
-  I am most skilled in: <mark>Java</mark> and <mark>Watching Anime</mark>
+  I am most skilled in: <mark>Java</mark>, <mark>SQL</mark> and ofcourse <mark>Watching Anime</mark>!
 content:
   - title: Skills
     layout: list
@@ -26,7 +27,7 @@ content:
         description: >
           Java, SQL, JavaScript, Python, HTML, CSS, XML, Typescript, Arduino,
           C++, and MATLAB.
-      - layout: center
+      - layout: left
         sub_title: Frameworks/Technologies
         description: >
           Git, REST, Java struts, servlets, Jboss, J2EE, Spring boot, Azure,
@@ -64,7 +65,7 @@ content:
           for a major US pharmaceutical firm.
         description: >
           I was responsible for developing and maintaining web application
-          using Java.
+          using Java. I acquired proficiency in Java programming language, software development lifecycle and agile methodologies
 
           Also critical testing using automation tools such as selenium webdriver and bug fixing
   - title: A Little More About Me
