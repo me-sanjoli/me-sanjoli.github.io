@@ -62,7 +62,7 @@ content:
         description: | # this will include new lines to allow paragraphs
            Git, REST, Java struts, servlets, Jboss, J2EE, Spring boot, Azure, SoapUI, JIRA, Bitbucket, and Dbeaver.
 
-      - layout: right
+      - layout: left
         title: Areas of Interest
         description: | # this will include new lines to allow paragraphs
            Problem Solving, Machine Learning, DSA and Algorithms.
@@ -83,7 +83,7 @@ content:
             I have had opportunity to work in creating APIs. Additionally, I've been actively involved in code reviews, debugging, and troubleshooting to ensure the delivery of high-quality solutions. 
             Furthermore, I've had the privilege of mentoring and training junior developers, maintaning their metrics on JIRA and monitoring there performancees, contributing to the team's growth and cohesiveness.
       content :
-      - layout: left
+      - layout: center
         title: Tata Consultancy Services
         link: https://www.tcs.com/
         # link_text: boringcompany.com
