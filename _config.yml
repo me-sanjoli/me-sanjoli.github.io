@@ -1,3 +1,4 @@
+---
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 version: 2
@@ -5,14 +6,16 @@ name: Sanjoli Omar
 title: Software Developer
 email: sanjoliofficialo01@gmail.com
 website: www.github.com/me-sanjoli
-darkmode: true
+darkmode: false
 github_username: me-sanjoli
 linkedin_username: https://www.linkedin.com/in/profilesanjoli
 about_profile_image: images/WhatsApp Image 2023-11-26 at 11.51.25.jpeg
 about_content: >
   Hi, my name's Sanjoli and I'm a Software developer. As well as
-  enhancing systems I also have experience making software. 
-  I have worked at a number of companies gaining teamwork and leadership skills.
+  enhancing systems I also have experience making software. I have worked at a
+  number of companies gaining teamwork and leadership skills.
+
+
   I am most skilled in: <mark>Java</mark> and <mark>Watching Anime</mark>
 content:
   - title: Skills
@@ -23,7 +26,7 @@ content:
         description: >
           Java, SQL, JavaScript, Python, HTML, CSS, XML, Typescript, Arduino,
           C++, and MATLAB.
-      - layout: left
+      - layout: center
         subtitle: Frameworks/Technologies
         description: >
           Git, REST, Java struts, servlets, Jboss, J2EE, Spring boot, Azure,
@@ -38,7 +41,7 @@ content:
       - layout: left
         title: Sapiens Technologies (1982) India Private Limited, Bangalore
         link: https://sapiens.com/
-        sub_title: Java Developer
+        c: Java Developer
         caption: January 2022 - Present
         quote: >
           Primarily focus on customization of Sapiens' IDIT product in Property &
@@ -50,38 +53,37 @@ content:
 
           I have had opportunity to work in creating APIs. Additionally, I've been actively involved in code reviews, debugging, and troubleshooting to ensure the delivery of high-quality solutions. 
 
-          Furthermore, I've had the privilege of mentoring and training junior developers, maintaning their metrics on JIRA and monitoring there performancees, contributing to the team's growth and cohesiveness.
+          Furthermore, I've had the privilege of mentoring and training junior developers, maintaning their metrics on JIRA and monitoring there performances, contributing to the team's growth and cohesiveness.
       - layout: center
-        title: Tata Consultancy Services
+        subtitle: Tata Consultancy Services
         link: https://www.tcs.com/
         sub_title: Software Developer
         caption: July 2019 - January 2022
-        quote: ""
+        quote: >
+          Maintenance and enhancement of a Project Portfolio application with Java
+          for a major US pharmaceutical firm.
+        description: >
+          I was responsible for developing and maintaining web application
+          using Java.
 
-          Maintenance and enhancement of a Project Portfolio application with Java for a major US pharmaceutical firm.
-        description: | # this will include new lines to allow paragraphs
-             I was responsible for developing and maintaining web application using Java.
-             Also critical testing using automation tools such as selenium webdriver and bug fixing
-
+          Also critical testing using automation tools such as selenium webdriver and bug fixing
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+    content: >
+      Alongside my interests in networks and software engineering some of my
+      other interests and hobbies are:
+
       - [Writing blog : link ->](https://witchblackproject.wordpress.com)
+
       - Gaming
+
       - Watching crime documentaries
+
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-# Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
-
-# Build settings
 remote_theme: sproogen/resume-theme
-
 sass:
   sass_dir: _sass
   style: compressed
-
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
